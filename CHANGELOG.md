@@ -113,10 +113,10 @@ This is the first public release of `/edgetest`, a comprehensive edge case testi
 
 **Get started:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/edgetest-skill/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mrchevyceleb/edgetest-skill/main/install.sh | bash
 /edgetest https://your-app.vercel.app
 ```
 
 ---
 
-[1.0.0]: https://github.com/YOUR_USERNAME/edgetest-skill/releases/tag/v1.0.0
+[1.0.0]: https://github.com/mrchevyceleb/edgetest-skill/releases/tag/v1.0.0

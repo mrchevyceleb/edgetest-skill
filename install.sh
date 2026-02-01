@@ -32,7 +32,7 @@ echo "✅ Commands directory ready"
 echo
 echo "📥 Downloading /edgetest skill..."
 
-REPO_URL="https://raw.githubusercontent.com/YOUR_USERNAME/edgetest-skill/main/edgetest.md"
+REPO_URL="https://raw.githubusercontent.com/mrchevyceleb/edgetest-skill/main/edgetest.md"
 SKILL_FILE="$COMMANDS_DIR/edgetest.md"
 
 if curl -fsSL "$REPO_URL" -o "$SKILL_FILE"; then
@@ -73,7 +73,7 @@ echo "   3. Run your first edge case test:"
 echo "      /edgetest https://your-app.vercel.app"
 echo
 echo "📚 Documentation:"
-echo "   - README: https://github.com/YOUR_USERNAME/edgetest-skill"
+echo "   - README: https://github.com/mrchevyceleb/edgetest-skill"
 echo "   - Full guide in skill file: $SKILL_FILE"
 echo
 echo "🎉 Happy testing!"

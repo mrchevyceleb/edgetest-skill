@@ -66,19 +66,19 @@ When a test fails:
 
 **macOS/Linux:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/edgetest-skill/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mrchevyceleb/edgetest-skill/main/install.sh | bash
 ```
 
 **Windows (PowerShell):**
 ```powershell
-iwr -useb https://raw.githubusercontent.com/YOUR_USERNAME/edgetest-skill/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/mrchevyceleb/edgetest-skill/main/install.ps1 | iex
 ```
 
 ### Manual Install
 
 1. **Download the skill file:**
    ```bash
-   curl -o ~/.claude/commands/edgetest.md https://raw.githubusercontent.com/YOUR_USERNAME/edgetest-skill/main/edgetest.md
+   curl -o ~/.claude/commands/edgetest.md https://raw.githubusercontent.com/mrchevyceleb/edgetest-skill/main/edgetest.md
    ```
 
 2. **Restart Claude Code** to load the skill
@@ -410,8 +410,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/edgetest-skill/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/edgetest-skill/discussions)
+- **Issues:** [GitHub Issues](https://github.com/mrchevyceleb/edgetest-skill/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/mrchevyceleb/edgetest-skill/discussions)
 - **Documentation:** Full guide in `edgetest.md`
 
 ---
@@ -424,6 +424,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Made with ❤️ by [Matt Johnston](https://github.com/YOUR_USERNAME)**
+**Made with ❤️ by [Matt Johnston](https://github.com/mrchevyceleb)**
 
 **Star ⭐ this repo if you find it useful!**

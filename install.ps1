@@ -31,7 +31,7 @@ Write-Host "✅ Commands directory ready" -ForegroundColor Green
 Write-Host ""
 Write-Host "📥 Downloading /edgetest skill..." -ForegroundColor Yellow
 
-$RepoUrl = "https://raw.githubusercontent.com/YOUR_USERNAME/edgetest-skill/main/edgetest.md"
+$RepoUrl = "https://raw.githubusercontent.com/mrchevyceleb/edgetest-skill/main/edgetest.md"
 $SkillFile = "$CommandsDir\edgetest.md"
 
 try {
@@ -75,7 +75,7 @@ Write-Host "   3. Run your first edge case test:" -ForegroundColor White
 Write-Host "      /edgetest https://your-app.vercel.app" -ForegroundColor Cyan
 Write-Host ""
 Write-Host "📚 Documentation:" -ForegroundColor Yellow
-Write-Host "   - README: https://github.com/YOUR_USERNAME/edgetest-skill" -ForegroundColor White
+Write-Host "   - README: https://github.com/mrchevyceleb/edgetest-skill" -ForegroundColor White
 Write-Host "   - Full guide in skill file: $SkillFile" -ForegroundColor White
 Write-Host ""
 Write-Host "🎉 Happy testing!" -ForegroundColor Green
